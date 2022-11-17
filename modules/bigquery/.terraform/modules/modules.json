@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"bigquery","Source":"registry.terraform.io/terraform-google-modules/bigquery/google","Version":"2.0.0","Dir":".terraform/modules/bigquery"}]}
